@@ -1,0 +1,51 @@
+body{
+    background:#000;
+    background-repeat: no-repeat;
+    margin: 100px;
+}
+.wrapper{
+    background-image:url(./img.jpeg);
+  width: 80%;
+  margin: 100px;
+  background-repeat: no-repeat;
+  color: white;
+  
+}
+
+
+.main-nav a{
+color:#fff ;
+margin:  15px;
+text-decoration: none;
+font-size: 9px;
+margin-left: 16px;
+}
+.box{
+    background-color: rgb(235, 58, 27);
+    padding-top:  40px;
+    }
+.box p{
+    text-align: center;
+    font-size: 12px;
+}
+.box h3{
+    text-align: center;
+ }
+.btn{
+ font-size: 17px;
+ padding: 10px 10px;
+ border-radius: 12px;
+}
+.box1 h2{
+    text-align: center;
+    margin: 0px;
+}
+.box1 p{
+    font-size: 13px;
+    text-align: center;
+}
+
+
+
+
+    
